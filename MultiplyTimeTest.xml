@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Plot title="Average Multiply Time">
+    <Axes>
+        <XAxis min="10" max="100000000000000000000">Factor Size</XAxis>
+        <YAxis min="0.20188" max="100">Microseconds</YAxis>
+    </Axes>
+    <Sequence title="Average Access Time vs Factor Size" color="red">
+    <DataPoint x="2" y="0.20188"/>
+    <DataPoint x="3" y="0.24445"/>
+    <DataPoint x="4" y="0.24324"/>
+    <DataPoint x="5" y="0.34315"/>
+    <DataPoint x="6" y="0.25592"/>
+    <DataPoint x="7" y="0.24267"/>
+    <DataPoint x="8" y="0.29288000000000003"/>
+    <DataPoint x="9" y="0.21281"/>
+    <DataPoint x="10" y="0.23289"/>
+    <DataPoint x="11" y="0.23343"/>
+    <DataPoint x="12" y="0.24227999999999997"/>
+    <DataPoint x="13" y="0.21244"/>
+    <DataPoint x="14" y="0.25322"/>
+    <DataPoint x="15" y="0.25276"/>
+    <DataPoint x="16" y="0.20218"/>
+    <DataPoint x="17" y="0.26306999999999997"/>
+    <DataPoint x="18" y="0.21184000000000003"/>
+    <DataPoint x="19" y="0.28321"/>
+    <DataPoint x="20" y="0.22202"/>
+    </Sequence>
+</Plot>
